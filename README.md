@@ -9,3 +9,8 @@ Bookmarker App
 
 Animated Counter
 ![Capture](https://user-images.githubusercontent.com/101275024/180821475-b464243e-c66b-425e-9976-20b05bad9231.PNG)
+
+
+
+Password Generator
+![Capture](https://user-images.githubusercontent.com/101275024/181103702-1cd3110d-0dc9-4940-a507-b3b48def46fc.PNG)
