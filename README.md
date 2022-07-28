@@ -14,3 +14,8 @@ Animated Counter
 
 Password Generator
 ![Capture](https://user-images.githubusercontent.com/101275024/181103702-1cd3110d-0dc9-4940-a507-b3b48def46fc.PNG)
+
+
+
+Speed Typing Game
+![image](https://user-images.githubusercontent.com/101275024/181644163-32dd46db-4325-43d6-b5ce-7d1bc5f1d860.png)
